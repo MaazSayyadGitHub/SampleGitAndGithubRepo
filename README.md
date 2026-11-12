@@ -1,11 +1,14 @@
-hi this is git and github learning project...
+#       README.MD 
+###      This is sample git project. to learn the git and github Concepts
 
-keep in mind that we will use Gemini Agent into this Project.
+1. hi this is git and github learning project...
 
-this is for working branch code.
+2. keep in mind that we will use Gemini Agent into this Project.
 
-this is the working branch changes for pull.
+3. this is for working branch code.
+
+4. this is the working branch changes for pull.
 
 // this is sample for stash in main
 
-just coding my new feature into main
+5. just coding my new feature into main
